@@ -11,11 +11,11 @@ Before running the script, ensure that you have the following:
 
 ## Usage
 1. Clone the repository to your local machine:
-   ```bash
-   git clone <repository_url>
-   cd <repository_directory>
-	 ruby tcgenerator.rb -t <template_file> -d <dataset_file>
-   ```
+```bash
+git clone <repository_url>
+cd <repository_directory>
+ruby tcgenerator.rb -t <template_file> -d <dataset_file>
+```
 
 Replace <template_file> with the path to your template file and <dataset_file> with the path to your dataset file.
 -t <template_file>: Specify the path to the template file.
